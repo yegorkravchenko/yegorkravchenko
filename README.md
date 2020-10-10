@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 I'm **Yegor Kravchenko**, a student from Italy who's currently learning Front-end, so HTML, CSS and JavaScript.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yegorkravchenko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yegorkravchenko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
